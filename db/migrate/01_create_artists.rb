@@ -4,4 +4,4 @@ class CreateArtists < ActiveRecord::Migration[4.2]
       t.string :name
     end
   end
-end
+endset_fire_to_the_rain = Song.new(name: "Set Fire to the Rain")
